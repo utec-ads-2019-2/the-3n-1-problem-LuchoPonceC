@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-
+unsigned int buscar[long(1e8)] = {0};
 using namespace std;
 
 int main(){
